@@ -1,0 +1,35 @@
+.vs/
+_ReSharper*
+[Bb]in
+obj/
+objd/
+tmp/
+Logs/
+App_Data
+*.user
+*.sln.*
+*.suo
+*.out
+[Tt]humbs.db
+*.log
+*.bak
+packages
+_NCrunch*
+StyleCop.Cache
+*.ide
+
+/VersionGeneratingLogs/
+VersionGeneration/
+versions/
+__cacheOutput
+
+# bad tlb/chm generators in nmake tree
+*.tlb
+*.chm
+
+# dumb silverlight
+ClientBin/
+
+# dump azure
+*.build.csdef
+csx/
